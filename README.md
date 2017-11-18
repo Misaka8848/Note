@@ -1,12 +1,13 @@
-# Note
-/*what's the meaning of this*/
-<h4>2017-11-17 11:10:01</h2><br>
---------recent--------<br>
-1.download typora<br>
-2.learn about markdown&markup<br>
-3.<br>
+#Note
 
---------long-term--------<br>
-1.Physical Chemistry Of Polymers next week will answer the question,
- bring the paper and pen.<br>
-2.</br>
+>2017-11-17 11:10:01>
+## recent
+*download typora
+*learn about markdown&markup
+
+***
+
+##long-term
+*Physical Chemistry Of Polymers next week will answer the question, bring the paper and pen.
+
+*
